@@ -1,0 +1,16 @@
+/*Estilo	Exemplo	Onde é comum?
+snake_case	nome_completo	Python, bancos de dados
+camelCase	nomeCompleto	JavaScript (variáveis, funções)
+PascalCase	NomeCompleto	JavaScript (componentes React, classes)
+kebab-case	nome-completo	URLs, arquivos, CSS classes*/
+/* snake-case em css arquivo */
+.redBg {
+  background-color: coral;
+}
+.active {
+  border: solid 10px blue;
+}
+/*Bg: background*/
+.greenBg{
+    background-color: green;
+}
