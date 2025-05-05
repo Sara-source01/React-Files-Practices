@@ -1,4 +1,4 @@
-# ⚛️ React-Files-Practices
+# ⚛️ React-Practice-Files
 📘 **Guia de React (em desenvolvimento)**  
 Olá! Este repositório contém um guia prático para aprender os fundamentos da biblioteca **React.js**, organizado em pastas 📂, onde cada uma aborda um conceito essencial da biblioteca.
 
