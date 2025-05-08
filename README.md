@@ -60,8 +60,8 @@ Clone este repositório, instale as dependências e inicie o projeto localmente.
 git clone https://github.com/Sara-source01/React-Files-Practices.git
 cd React-Files-Practices
 npm install
-npm start # ou: npm run dev
-💡 Use npm start se o projeto estiver configurado para isso, ou npm run dev dependendo da estrutura usada (como Vite, por exemplo).
+npm run dev
+💡 Use npm run dev dependendo da estrutura usada (Vite).
 
 ## 📚 Ideal para
 
