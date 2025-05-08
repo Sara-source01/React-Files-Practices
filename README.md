@@ -52,7 +52,6 @@ Essas ferramentas permitem depurar erros específicos do navegador, inspecionar 
 > 💡 Dica: Use a extensão "ESLint" e "Prettier" no VS Code para uma experiência de desenvolvimento mais fluida e padronizada.
 
 
-
 ## 🚀 Como visualizar
 
 Clone este repositório, instale as dependências e inicie o projeto localmente.
@@ -61,7 +60,8 @@ Clone este repositório, instale as dependências e inicie o projeto localmente.
 git clone https://github.com/Sara-source01/React-Files-Practices.git
 cd React-Files-Practices
 npm install
-npm start ou npm run dev
+npm start # ou: npm run dev
+💡 Use npm start se o projeto estiver configurado para isso, ou npm run dev dependendo da estrutura usada (como Vite, por exemplo).
 
 ## 📚 Ideal para
 
