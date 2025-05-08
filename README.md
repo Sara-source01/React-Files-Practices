@@ -27,6 +27,32 @@ react-guide/
 
 Este projeto tem como objetivo servir como material de apoio e referência prática para quem está aprendendo **React**, com exemplos claros e bem organizados.
 
+
+## 🛠️ Pré-requisitos para Desenvolvimento
+
+Para garantir uma boa padronização do código e facilitar a identificação de erros, é altamente recomendável instalar as seguintes ferramentas:
+
+### 🔹 Node.js
+Instale o [Node.js](https://nodejs.org/) para poder utilizar o ecossistema JavaScript/Node, incluindo pacotes como ESLint e Prettier.
+
+### 🔹 Prettier
+O Prettier é um formatador de código que ajuda a manter um estilo consistente em todo o projeto. Pode ser integrado ao seu editor de código (como o VS Code) para formatar automaticamente ao salvar arquivos.
+
+### 🔹 ESLint
+O ESLint é essencial para detectar erros de sintaxe e más práticas em tempo real. Ele pode ser configurado para seguir regras específicas, como Airbnb ou padrão próprio do projeto.
+
+### 🔹 Ferramentas de inspeção por navegador
+Cada navegador moderno (como Chrome, Firefox ou Edge) possui ferramentas de desenvolvedor embutidas:
+- **Chrome DevTools**
+- **Firefox Developer Tools**
+- **Edge Developer Tools**
+
+Essas ferramentas permitem depurar erros específicos do navegador, inspecionar elementos, monitorar a rede e executar scripts diretamente.
+
+> 💡 Dica: Use a extensão "ESLint" e "Prettier" no VS Code para uma experiência de desenvolvimento mais fluida e padronizada.
+
+
+
 ## 🚀 Como visualizar
 
 Clone este repositório, instale as dependências e inicie o projeto localmente.
@@ -35,7 +61,7 @@ Clone este repositório, instale as dependências e inicie o projeto localmente.
 git clone https://github.com/Sara-source01/React-Files-Practices.git
 cd React-Files-Practices
 npm install
-npm start
+npm start ou npm run dev
 
 ## 📚 Ideal para
 
