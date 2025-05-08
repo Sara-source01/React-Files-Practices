@@ -24,9 +24,9 @@ export default function MyInput() {
             pode usar atribute de onChange para invocar uma função
             pelo escrever o nome dela dentro atribute de onChange
             toda vez o usuário digite um valor nesse input ou alterar nele */}
-      {/* forma 1 <input type="text" onChange={handleInputChange} /> */}
-      {/* forma 2: usando "anonymous function" () => {} */}
-      {/* forma2 onChange={() => {handleInputChange()}} mas não serve nesse caso */}
+    {/* // para conferir, vai se refeletir no DevTools (inspecionar=>⚛️Componentes => MyInput => State:"") */}
+    {/* quando o usuário digita um valor novo no input (test) vai mostrar no State:"test" */}
+    {/* //   e vice-versa quando você digita um valor no State: "test2" e clica quaquer lugar e observará que esse valor mostra no input (test2) */}
       <input
         style={{ backgroundColor: "white" , color:"darkblue",}}
         value={MyInputValue}
